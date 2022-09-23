@@ -1,4 +1,4 @@
-# BIkesharing
+# Bikesharing
 
 Using Tableau, we downloaded a CSV from the NY Citi Bike website and analyzed it to determine whether a similar business can be started in Des Moines.
 
