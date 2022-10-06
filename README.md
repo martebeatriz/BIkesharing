@@ -2,7 +2,7 @@
 
 Using Tableau, we downloaded a CSV from the NY Citi Bike website and analyzed it to determine whether a similar business can be started in Des Moines.
 
-Tableau link : https://public.tableau.com/shared/G6Z9F5P25?:display_count=n&:origin=viz_share_link
+Tableau link : https://public.tableau.com/app/profile/beatriz.marte/viz/Bike-ShareProject/CitiBikeAnaysis
 
 
 ## Results:
@@ -12,8 +12,22 @@ The following images were compiled using the data and their interpretations are 
 
 ![Tripduration](https://user-images.githubusercontent.com/107375554/191879755-dfa62b09-a019-4164-b650-ea599daf83f9.png)
 
+Here, we can see that most trips are less than 1 hour long and specifically, less than 30 minutes. 
 
-![Trips by Gender Weekday, Subscription](https://user-images.githubusercontent.com/107375554/191879760-eec49a72-1ff2-4f52-9fa8-31810306e6e2.png)
+Both men and women ride their bikes for the same amount of time. 
+
+
+![Trips by Gender Weekday, Subscription](https://user-images.githubusercontent.com/107375554/194438563-5301d0cf-1aca-4dbd-8ced-25b24ab1e5a7.png)
+
+The graph shows that there are more rides by subscribers compared to customers. We can also see that male subscribers use bikes more than female subscribers.
+
+There are slightly more male customer riders than there are female riders.  However, when it comes to subscribers, there are many more male riders than female riders. 
+
+For some reason, subscribers do not ride their bikes as much on Wednesdays compared to other weekdays.
+
+Female subscribers use their bikes pretty evenly throughout the week. 
+
+Male subscribers use their bikes the most on Thursdays.  
 
 
 ## Summary: 
